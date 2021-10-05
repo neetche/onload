@@ -18,6 +18,9 @@ can be merged.
 
 ## Summary of coding conventions
 
+![Manifeste_de_Brunswick_caricature_1792](https://user-images.githubusercontent.com/90988117/136021541-d4d4ef5a-9c21-4b7c-9fec-5d864c84813a.jpg)
+
+
 In general try to follow the style that is used in the file.
 Most of the files use:
 
