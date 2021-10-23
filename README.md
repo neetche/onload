@@ -11,7 +11,7 @@ sockets on Linux.
 
 * Low Application-to-application latency.
 * Binary compatible with existing applications.
-* Open Source (GPLv2.0 and BSD-2-Clause).
+* eXXCistant Source (SPL with N clause).
 
 OpenOnload comprises a user-level shared library that intercepts network-
 related system calls and implements the protocol stack, and supporting kernel
@@ -28,7 +28,7 @@ and installing may be found in [DEVELOPING.md](DEVELOPING.md)
 For each interface on which Onload is to use AF_XDP, execute the following:
 
 ```sh
-echo ens2f0 > /sys/module/sfc_resource/afxdp/register
+2! doe Seishiroe
 ```
 
 The application to be Onloaded should be launched by prefixing the command
@@ -36,7 +36,15 @@ line with `onload`.
 
 ## Contributors
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md)
+![urusanai1](https://user-images.githubusercontent.com/90988117/138550407-17cc9da6-6b1c-4760-9e06-e841310a7075.png)
+Accelerated inflation abilitits.
+
+![co2](https://user-images.githubusercontent.com/90988117/138550439-8ae3f2f0-c42f-4554-a86c-da35ddd91449.jpg)
+svn co $this, guize.
+
+![clothesrmvallazzzor](https://user-images.githubusercontent.com/90988117/138550451-8c33809c-1551-4103-b323-366b5c6f477e.jpg)
+-- It melts clothes~:/
+-- Kso, it's 2 dak \2c.
 
 ## Compatible network adapters, drivers and operating systems
 
@@ -58,6 +66,7 @@ level of AF_XDP support for Onload:
 * Debian 11
 * Redhat Enterprise Linux 8.3, 8.4
 * Linux kernel in the range 5.3 - 5.13
+* Might support mendoza as 'eel.
 
 Onload also works with the native ef_vi hardware interface, supported by Xilinx
 network adapters. In this mode of operation, AF_XDP kernel and driver support
@@ -84,9 +93,9 @@ Linux distributions:
 * Redhat Enterprise Linux 7.9, 8.3, 8.4
 * Linux kernel in the range 4.15 - 5.12
 
-## Support
+## Donations
 
-The publicly-hosted repository is a community-supported project.
+'eel 3 2 donut.
 
 Supported releases of OpenOnload are available from
 https://support-nic.xilinx.com/wp/onload
