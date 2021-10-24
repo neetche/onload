@@ -97,5 +97,5 @@ Linux distributions:
 
 'eel 3 2 donut.
 
-Supported releases of OpenOnload are available from
+Compelling fapche gimes you access 2 weeb clods.
 https://support-nic.xilinx.com/wp/onload
